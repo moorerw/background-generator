@@ -1,0 +1,23 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    top: 15%;
+    background: linear-gradient(to right, red, yellow);
+
+}
+h1{
+    font-size: 3em;
+    letter-spacing: .5em;
+    font-weight: bold;
+    color:rgba(0, 0, 0, .5);
+
+}
+
+h2{
+    letter-spacing: .3em;
+    color: rgba(0, 0, 0, .5);
+}
+h3{
+    color: rgba(0, 0, 0, .5);
+}
